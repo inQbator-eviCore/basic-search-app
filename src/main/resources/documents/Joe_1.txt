@@ -1,0 +1,175 @@
+Author:  AUTHOR_NAME,PT,MS,CHT,CLT           Note Status:  Final
+Date:    6/30/09
+
+
+MEDICAL_OFFICE
+MEDICALOFFICE_LOCATION
+MEDICALOFFICE_LOCATION
+MEDICALOFFICE_LOCATION
+Telephone: (800) 555-5555
+ 
+* Use EMR Notes when viewing electronically
+
+
+
+* * * THIS IS A TEXT VERSION OF THE ORIGINAL EMR NOTE.  FOREIGN LANGUAGE
+CHARACTERS AND OTHER SPECIAL SYMBOLS MAY NOT APPEAR AS THEY DO IN THE ORIGINAL
+NOTE. * * *
+
+
+~
+PHYSICAL THERAPY TREATMENT NOTE 
+
+
+
+Visit #/Authorized Visits
+5
+
+
+Patient Profile
+Patient is a  52 year old right handed gentleman presenting with c/o   left
+shoulder pain He reports symptom onset on 12/22/07 while trying to transfer a
+heavy pt at work .Pt reports initial symptoms were  sharp pain in the left
+shoulder radiating to his neck and down his arm and numbness in all digits of
+the left hand .He reports having two steroid injections in the left shoulder
+with partial relief .
+He now reports c/o pain mostly on the top of his shoulder .No c/o left UE
+paresthesias.He was referred to PT By Dr PHYSICIAN_NAME with a diagnosis of left AC
+joint DJD and RC tendinopathy.
+
+
+
+Current Condition/Chief Complaint
+Pt reports increased c/o left shoulder pain for the past two days (?related to
+patient coming down with a cold.
+
+      Self-management:
+.He reports using kinesiotape for the left AC joint.
+
+
+Pain: Description/Location:
+achy intermittent pain in the distal left clavicle region with reaching
+overhead.Discomfort with lying on the left side
+
+      Current pain level (0-10):         4 
+0-5/10
+
+
+Functional Status/Activity Level
+c/o pain with lifting overhead/sleeping on the left side
+
+
+Musculoskeletal Exam
+
+ 
+
+
+
+Active Range of Motion: Shoulder
+
+
+
+
+
+
+Left
+
+
+Right
+
+
+Pain / Scapular  Humeral    Rhythm & Quality
+
+
+With Repositioning                   I=Improved/W=Worsened/NT
+
+
+Forward Elevation
+
+140
+
+
+
+c/o  pain  at 120 degrees on .Increased scapula protraction
+
+
+
+Abduction
+
+140
+
+
+
+c/o stiffness/pain at 120 degrees
+
+
+
+ER (Lateral Rotation)
+
+
+
+
+
+
+
+
+
+Reach to Opposite Shoulder
+
+C7 with c/o posterior shoulder pain
+
+
+
+
+
+
+
+Reach behind back
+
+T8 c/o stiffness
+
+T9
+
+
+
+
+
+Other
+
+
+
+
+
+
+
+
+ c/o pain with resisted abd/palpation of the greater tuberosity/AC
+joint.Positive impingement sign left shoulder 
+
+.
+BP 125/85
+
+
+
+Treatment Provided Today
+
+      Self-care/Home Management - ADLs (97535):
+kinesiotape left AC joint/pt education regarding HEP/activity guidelines
+8 min
+
+
+
+CLINICAL IMPRESSION
+signs of left subacromial tissue mechanical irritability
+
+
+Time in Clinic:
+ Start time 2.50 End time:3.00  1:1 time 10 min
+
+
+
+
+
+____________________________________
+PT_NAME,PT,MS,CHT,CLT
+

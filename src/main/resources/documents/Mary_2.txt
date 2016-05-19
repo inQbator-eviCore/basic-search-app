@@ -1,0 +1,79 @@
+Author:  AUTHOR_NAME, M.D., Ph.D.           Note Status:  Final
+Date:    9/29/10
+
+ED Surgery Admission History & Physical       Date:    9/28/10 
+****************************************************
+Name: PATIENT_NAME
+MRN# 0000003
+Resident: PHYSICIAN_NAME
+Attending:  PHYSICIAN_NAME
+****************************************************
+CC: abdominal pain
+HPI: 30F with chronic lower back pain s/p lap band 4/2005 presenting with
+persistent abdominal pain with nausea and NBNB emesis despite drainage of lap
+band fluid.  The patient reports developing epigastric abdominal pain on Sunday
+with small amount of emesis x2.  She was seen in bariatric clinic early this
+week and the band was drained.  Her abdominal pain with 2-4 episodes of NBNB
+emesis continued and has prevented her from tolerating oral hydration.  Her
+pain/nausea is exacerbated by oral intake and somewhat relieved with rest and
+NPO status.  She denies F/chills, SOB/CP, dysuria, diarrhea/constipation,
+dietary changes or sick contacts.
+
+PMHx: 
+Lower back pain with radiculopathy: has received multiple steroid injections
+for this
+
+PSHx:
+4/25/2005-Laparoscopic adjustable gastric banding
+
+Meds:
+Dexilant 60 mg daily
+Ranitidine 150 mg bid
+Neurontin 600 mg tid
+Cyclobenzaprine prn
+Ultram prn
+
+Allergies: Latex
+SHx: denies smoking, etoh, illicits
+
+PE: 
+96.2      67         140/60  16         99RA
+GEN: awake, alert lying on stretcher in NAD
+CV: regular 
+P: CTA
+Abd: Soft, minimally tender to deep palpation throughout.  No
+rebound/guarding.  No shake/tap tenderness
+Ext: warm, well-perfused
+
+Labs: 
+Chem7:  138/3.7/102/28/9/0.6/87 Ca 9
+LFT: 10/12/55/0.4 Alb 4.1
+Lipase 25
+Cbc: 8/34/213
+Coags:  INR 1.1, PTT 30
+UA:  LE 1+, nitrite neg, 5-10 wbc, rbc 0-3. squms 2+
+HCG neg
+
+Imaging: 
+CT Ab/pelvis: Gastric band in appropriate position. 3cm cyst on L ovary
+requires ultrasound follow up in 6 weeks
+
+Assessment: 30F with chronic lower back pain s/p lap band 4/2005 presenting
+with persistent abdominal pain with nausea and NBNB emesis despite drainage of
+lap band fluid.  We will admit for possible removal of gastric band in OR
+tomorrow.
+
+Plan:
+NPO/IVF
+Nexium bid
+Dilaudid prn
+Added on to OR schedule for 9/29/2010
+
+Assessment and plan discussed with Dr. PHYSICIAN_NAME for Dr. PHYSICIAN_NAME, who agrees.
+Plan communicated to ED.
+_______________________
+PHYSICIAN_NAME, MD/PhD
+General Surgery PGY 3; PAGER_NUMBER
+
+
+

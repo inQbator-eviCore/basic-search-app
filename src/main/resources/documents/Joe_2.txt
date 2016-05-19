@@ -1,0 +1,53 @@
+Author:  AUTHOR_NAME.           Note Status:  Final
+Date:    6/15/08
+
+
+Patient: PATIENT_NAME   (MRN: 0000006)
+
+History Of Present Illness
+Mr. PATIENT_NAME is a 51 year-old male, who presents today for a followup visit after
+obtaining a C7 epidural steroid injection by Dr. PHYSICIAN_NAME on 5/12/2008.  He
+reports that he did not have any significant relief from the injection.  He
+continues to experience left sided neck pain with radiation into the left
+shoulder and all the way down to his left arm. At times, his entire left hand
+will go numb.  He has been dropping things more frequently and the left hand
+feels weaker than the right.  He continues to work light duty approximately 68
+hours a day.  He denies any changes in his gait or bowel or bladder habit.
+
+Physical Exam
+Physical exam is unchanged since his previous visit.  He has ongoing weakness
+in his left triceps and wrist extension.  He has a Hoffmann's on the right.  He
+has no lower extremity hyperreflexia.
+
+Radiographs
+Review of his MRI of the cervical spine done on 1/4/2008 reveals a left
+foraminal disc herniation at C6-C7 along with multiple level disc degeneration
+and flattening of the cervical spinal cord at C3-C4, C4-C5, and C5-C6.
+
+Plan
+Mr. PATIENT_NAME is a 51-year-old male, who is now almost six months status post an
+injury that occurred at work resulting in left upper extremity pain, left neck
+pain, and numbness throughout the entire left hand.  Radiographically, he has
+evidence of a left sided C6-C7 disc herniation and multilevel stenosis in the
+cervical spine with flattening of the cervical cord.  He has mildly positive
+Hoffmann's, but without any long term signs or evidence of myelopathy.  He may
+have some early signs of progressive myelopathy given that he has had weakness
+in his left hand and is dropping things.  Dr. PHYSICIAN_NAME discussed with Mr. PATIENT_NAME
+proceeding with surgical intervention and he is in agreement with proceeding in
+this direction given that his symptoms have been persistent and ongoing for
+over six months despite conservative management including injections and
+physical therapy.  We first however, get a repeat MRI of the cervical spine
+given that is close to six months old and should be reevaluated prior to any
+surgical intervention for progressive stenosis.  In addition, Dr. PHYSICIAN_NAME would
+like a CT myelogram of the cervical spine to help distinguish between a disc
+material and bony anatomy.  This will help direct the surgical plan and
+approach, anterior versus posterior.  Mr. PATIENT_NAME is in agreement with this plan
+and all of his questions were answered.  We will submit these studies for
+approval and see him back for follow up visit after this has been obtained.
+
+Addendum
+NP_NAME, NP dictating for Dr. PHYSICIAN_NAME
+
+_____________________
+PHYSICIAN_NAME, MD
+

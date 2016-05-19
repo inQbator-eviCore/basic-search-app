@@ -1,0 +1,64 @@
+Author:  AUTHOR_NAME,N.P.           Note Status:  Final
+Date:    4/4/11
+
+
+
+
+MEDICAL_OFFICE
+MEDICALOFFICE_LOCATION
+MEDICALOFFICE_LOCATION
+(800) 555-5555
+
+PATIENT_NAME
+0000003
+4/4/11
+
+REASON FOR VISIT:  The patient is here today to reestablish primary care site. 
+Prior PCP was at MEDICAL_GROUP and patient lost her insurance and can no
+longer go there.
+
+PAST MEDICAL HISTORY:  Significant for lumbar herniated, hip ligament tear and
+fractured left foot.  Is a chronic pain patient and was seen by a pain
+specialist at MEDICAL_GROUP.  Did get married 3 weeks ago and she is
+attempting to use rhythm method.  Last menstrual period was 3/5/11.  Not
+interested in using other birth control methods due to religious reasons. 
+Would welcome pregnancy if she became pregnant.
+
+MEDICATIONS:  Reviewed, is taking cyclobenzaprine 10 mg nightly, gabapentin 600
+mg b.i.d., Nexium 40 mg daily, tramadol 50 mg as needed for pain, and Zantac
+150 mg twice a day.  
+
+Does have a history of chronic gastritis since having lap band surgery done. 
+Recently started Weight Watchers; is trying to lose weight.
+
+OBJECTIVE:  Blood pressure 112/54, weight 246 pounds, height 68 inches,
+temperature 97.9, pulse 78, O2 sat 100.  
+
+HCG done today was positive.
+
+ASSESSMENT:
+1.  Early pregnancy.
+2.  Chronic pain; is on multiple medications.
+
+PLAN:  Reviewed medication list and discussed safety during pregnancy of both
+gabapentin and tramadol, both of which are category C in pregnancy and the
+others are category B.  The patient will try to hold those 2 medications, begin
+prenatal vitamins, refer to Pain Clinic, CLINIC_LOCATION, refer for new OB
+appointment.
+
+
+______________________________
+PROVIDER_NAME, FNP
+
+
+
+
+
+eScription document:ESCRIPT_NUMBER ESSten Tel
+
+
+
+DD: 4/4/11
+DT: 4/4/11
+DV: 4/4/11
+

@@ -1,0 +1,40 @@
+Author:  AUTHOR_NAME, M.D.,M.B.A.           Note Status:  Final
+Date:    7/2/11
+
+EDVISIT^0000005^PATIENT_NAME^7/2/11^PHYSICIAN_NAME
+This is a shared visit with physician assistant, PA_NAME.
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 50-year-old
+gentleman with a history of schizophrenia who works as a dish
+washer presenting for a wound evaluation.  He received a
+laceration to the right thumb last Friday and had 2 stitches
+placed at that time.  Plan is for suture removal in 11 days from
+when they were placed.  He states he is concerned about some
+wound dehiscence, denies any fevers, increasing swelling, redness
+or drainage of fluid.  He does smoke cigarettes about 1/2 pack
+per day.  He presents here with a temperature of 96.3, heart rate
+of 99, blood pressure of 144/89, saturating 99% on room air.  He
+is awake and alert, in no acute distress.  Exam of the right
+thumb shows a clean and dry wound that has 2 sutures in place. 
+There is no drainage, induration or evidence of wound infection. 
+There is no evidence of significant dehiscence.  There is one
+area of the wound that is slightly separated.  I explained to the
+patient that given that it is now about 5 days since his initial
+injury putting an addition suture in this area would be extremely
+high risk for infection and that the best course would be to
+continue to try to keep the wound dry and redressed the wound,
+keeping an eye out for any evidence of infection which there are
+none currently.  He seemed to be okay with this plan.  As a
+result, the patient was discharged home.
+PRIMARY DIAGNOSES:  Thumb laceration, wound evaluation.
+______________________________
+PHYSICIAN_NAME M.D.
+D: 7/2/11
+T: 7/2/11
+Dictated By: PHYSICIAN_NAME
+eScription document:ESCRIPT_NUMBER BNFocus
+
+
+***This ED Note has been electronically signed by: PHYSICIAN_NAME M.D. on 
+7/5/2011 4:05:52 PM***
+
+

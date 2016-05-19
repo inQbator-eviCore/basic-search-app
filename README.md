@@ -1,22 +1,30 @@
-# Apache TomEE JAX-RS AngularJS Starter Project
+# Simple Patient Search Starter Project
 
-[Open this project in Codenvy](https://codenvy.com/f?id=dztffm6dfrw4s3ld)
+This is a simple search application over a set of patient records.
+You can clone this repo or provision an instant dev environment via http://beta.codenvy.com/f?id=qu9bnf9n1h40whho
 
-The only thing better than a Maven archetype is a repo you can fork with everything already setup.  Skip the documentation and just fork-and-code.  This starter project contains:
+## Your Mission
 
- - Java
- -- Phone.java
- -- PhoneService.java
- -- PhoneServiceTest.java
+In src/main/java you'll find the starter backend code and in src/main/webapp you'll find the start UI code.
+If you start up the application, you'll see a basic search application. It's a simple ember app that hits
+an endpoint in src/main/java/com/qpidhealth/qpid/search/services/PatientService.
 
- - JavaScript
- -- angular.js
- -- controllers.js
+Take 30 minutes to an hour and implement some basic improvements to this application, this can include
 
- - CSS
- -- bootstrap.css
- -- app.css
+ * Making the code cleaner using better object-oriented design, etc.
+ * Making the PatientService actually filter the patient records and documents as part of the response
+ * Improving the result rendering in the UI with styled snippets and highlighting
+ * Updating the search interface to debounce calls to the backend
+ * Improving the patient and document data models
+ * Anything else your creativity can dream up, bonus points for something fresh and unexpected
 
-Everything ready-to-run with a simple `maven clean install tomee:run`
+After you are done, right click the src folder and download it. 
+Email the final code to michael.barrett@qpidhealth.com
 
-Delete the sample code, replace with your own and you're good to go.
+Good Luck!
+
+## Running the application
+
+From Codenvy you can use the build and run command at the top of the development environment.
+
+Otherwise, everything ready-to-run with a simple `maven clean install tomee:run`
