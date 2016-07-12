@@ -10,14 +10,14 @@ If you start up the application, you'll see a basic search application. It's a s
 an endpoint in src/main/java/com/qpidhealth/qpid/search/services/PatientService.
 
 Take an hour or two and work on some basic improvements to this application, including, but not limited to:
-  * Make the PatientService filter the results it returns by a case-insensitive, partial match over the document title and contents.
-  * Clean up the code using better object-oriented design, and improving readability.
-  * Add a couple unit tests around your search code.
+  * Making the PatientService filter the results it returns by a case-insensitive, partial match over the document title and contents.
+  * Cleaning up the code using better object-oriented design and improving readability.
+  * Adding a couple unit tests around your search code.
   
 If you have HTML/JavaScript experience, also work on some of the following:
   * Improve the result rendering in the UI with better styling of snippet results.
   * Update the search interface to debounce calls to the backend
-  * Perform highlighting of the text results
+  * Perform highlighting of the search term in the text results
   * Come up with and add a new feature to the UI, this can be anything your creativity can dream up.
 
 After you are done, right click the src folder and download it. 
